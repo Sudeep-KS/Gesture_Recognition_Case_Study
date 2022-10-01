@@ -17,5 +17,5 @@ Each row of the CSV file represents one video and contains three main pieces of 
 
 ## Contact
 Created by feel free to contact me!
-[sudeep.ks@hotmail.com]
+[sudeep.ks@hotmail.com]<br>
 [souvisen@gmail.com]
