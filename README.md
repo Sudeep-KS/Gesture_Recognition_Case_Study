@@ -16,6 +16,6 @@ The data is in a zip file. The zip file contains a 'train' and a 'val' folder wi
 Each row of the CSV file represents one video and contains three main pieces of information - the name of the subfolder containing the 30 images of the video, the name of the gesture and the numeric label (between 0-4) of the video.
 
 ## Contact
-Created by feel free to contact me!
+Created by feel free to contact us!<br>
 [sudeep.ks@hotmail.com]<br>
 [souvisen@gmail.com]
